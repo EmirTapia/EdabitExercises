@@ -1,0 +1,15 @@
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\bin\Debug\net6.0\EdabitExercises.exe
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\bin\Debug\net6.0\EdabitExercises.deps.json
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\bin\Debug\net6.0\EdabitExercises.runtimeconfig.json
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\bin\Debug\net6.0\EdabitExercises.dll
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\bin\Debug\net6.0\ref\EdabitExercises.dll
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\bin\Debug\net6.0\EdabitExercises.pdb
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\EdabitExercises.csproj.AssemblyReference.cache
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\EdabitExercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\EdabitExercises.AssemblyInfoInputs.cache
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\EdabitExercises.AssemblyInfo.cs
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\EdabitExercises.csproj.CoreCompileInputs.cache
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\EdabitExercises.dll
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\ref\EdabitExercises.dll
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\EdabitExercises.pdb
+E:\Users\etapia\source\repos\EdabitExercises\EdabitExercises\obj\Debug\net6.0\EdabitExercises.genruntimeconfig.cache
